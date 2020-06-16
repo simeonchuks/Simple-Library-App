@@ -1,0 +1,212 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\A Simeon Chuks\\Documents\\LIBMOT\\Library\\Library.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\A Simeon Chuks\\Documents\\LIBMOT\\LibraryData\\LibraryData.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\A Simeon Chuks\\Documents\\LIBMOT\\LibraryData\\LibraryData.csproj",
+        "projectName": "LibraryData",
+        "projectPath": "C:\\Users\\A Simeon Chuks\\Documents\\LIBMOT\\LibraryData\\LibraryData.csproj",
+        "packagesPath": "C:\\Users\\A Simeon Chuks\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\A Simeon Chuks\\Documents\\LIBMOT\\LibraryData\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\A Simeon Chuks\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\A Simeon Chuks\\Documents\\LIBMOT\\LibraryServices\\LibraryServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\A Simeon Chuks\\Documents\\LIBMOT\\LibraryServices\\LibraryServices.csproj",
+        "projectName": "LibraryServices",
+        "projectPath": "C:\\Users\\A Simeon Chuks\\Documents\\LIBMOT\\LibraryServices\\LibraryServices.csproj",
+        "packagesPath": "C:\\Users\\A Simeon Chuks\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\A Simeon Chuks\\Documents\\LIBMOT\\LibraryServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\A Simeon Chuks\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\A Simeon Chuks\\Documents\\LIBMOT\\LibraryData\\LibraryData.csproj": {
+                "projectPath": "C:\\Users\\A Simeon Chuks\\Documents\\LIBMOT\\LibraryData\\LibraryData.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\A Simeon Chuks\\Documents\\LIBMOT\\Library\\Library.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\A Simeon Chuks\\Documents\\LIBMOT\\Library\\Library.csproj",
+        "projectName": "Library",
+        "projectPath": "C:\\Users\\A Simeon Chuks\\Documents\\LIBMOT\\Library\\Library.csproj",
+        "packagesPath": "C:\\Users\\A Simeon Chuks\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\A Simeon Chuks\\Documents\\LIBMOT\\Library\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\A Simeon Chuks\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\A Simeon Chuks\\Documents\\LIBMOT\\LibraryData\\LibraryData.csproj": {
+                "projectPath": "C:\\Users\\A Simeon Chuks\\Documents\\LIBMOT\\LibraryData\\LibraryData.csproj"
+              },
+              "C:\\Users\\A Simeon Chuks\\Documents\\LIBMOT\\LibraryServices\\LibraryServices.csproj": {
+                "projectPath": "C:\\Users\\A Simeon Chuks\\Documents\\LIBMOT\\LibraryServices\\LibraryServices.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\A Simeon Chuks\Documents\LIBMOT\LibraryData\bin\Debug\netcoreapp2.2\LibraryData.deps.json
+C:\Users\A Simeon Chuks\Documents\LIBMOT\LibraryData\bin\Debug\netcoreapp2.2\LibraryData.dll
+C:\Users\A Simeon Chuks\Documents\LIBMOT\LibraryData\obj\Debug\netcoreapp2.2\LibraryData.csproj.CoreCompileInputs.cache
+C:\Users\A Simeon Chuks\Documents\LIBMOT\LibraryData\obj\Debug\netcoreapp2.2\LibraryData.AssemblyInfoInputs.cache
+C:\Users\A Simeon Chuks\Documents\LIBMOT\LibraryData\obj\Debug\netcoreapp2.2\LibraryData.AssemblyInfo.cs
+C:\Users\A Simeon Chuks\Documents\LIBMOT\LibraryData\obj\Debug\netcoreapp2.2\LibraryData.csprojAssemblyReference.cache
+C:\Users\A Simeon Chuks\Documents\LIBMOT\LibraryData\bin\Debug\netcoreapp2.2\LibraryData.runtimeconfig.json
+C:\Users\A Simeon Chuks\Documents\LIBMOT\LibraryData\bin\Debug\netcoreapp2.2\LibraryData.runtimeconfig.dev.json
+C:\Users\A Simeon Chuks\Documents\LIBMOT\LibraryData\bin\Debug\netcoreapp2.2\LibraryData.pdb
+C:\Users\A Simeon Chuks\Documents\LIBMOT\LibraryData\obj\Debug\netcoreapp2.2\LibraryData.dll
+C:\Users\A Simeon Chuks\Documents\LIBMOT\LibraryData\obj\Debug\netcoreapp2.2\LibraryData.pdb
